@@ -1,3 +1,3 @@
 # NumPy
 
-This is to learn numpy/
+This is to learn numpy.
